@@ -13,7 +13,6 @@
 
 * [python基础](python/base.md)
 
-
 ## R篇
 
 * [R语言编程: Base](R/r-base.md)
